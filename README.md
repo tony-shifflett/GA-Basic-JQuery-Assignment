@@ -5,7 +5,6 @@
 ### 1. Main Assignment - EST TIME: 1.5hr
 - Work through this lecture first: [jquery Events](https://git.generalassemb.ly/SEIR-1207/js-programmatic-dom-and-events)
 - Then attempt this exercise: [Random Imager](./random-imager.md)
-- Work through the following lectures to finish learning about jquery
 - When completed submit your HW link via the HW Submission Form pinned to the classroom channel.
 
 
@@ -17,7 +16,7 @@
 
 ### 3. Object Oriented Programming Primer- Night 3 (30 minutes)
 
-- [ 5 Days of Object Oriented Programming ](https://git.generalassemb.ly/SEIR-1207/5daysofOOP)
+- [ 5 Days of Object Oriented Programming ](https://git.generalassemb.ly/SEIR-329/5daysofOOP)
 
 ### 4. ALGO PRACTICE - EST TIME: 30min
 
