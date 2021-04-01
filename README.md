@@ -18,9 +18,10 @@
 
 - [ 5 Days of Object Oriented Programming ](https://git.generalassemb.ly/SEIR-329/5daysofOOP)
 
-### 4. ALGO PRACTICE - EST TIME: 30min
+### 4. CodeWars Algo Challenge
 
- - Watch: [Algo: Two Sum](https://www.youtube.com/watch?v=0bNNDfhgtCA&t=1s) - 30min
+ - [Average of the Numbers](https://www.codewars.com/kata/55d277882e139d0b6000005d/train/javascript)
+ - [Additional Beginner Challenges](https://www.codewars.com/kata/search/javascript?q=Grasshopper&&beta=false)
 
 
 ### 5.  INTERVIEW PRACTICE - EST TIME: 20min
