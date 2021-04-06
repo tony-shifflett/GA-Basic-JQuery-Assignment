@@ -3,7 +3,7 @@
 ## Command Line / Interview Questions
 
 ### 1. Main Assignment - EST TIME: 1.5hr
-- Work through this lecture first: [jquery Events](https://git.generalassemb.ly/SEIR-329/js-programmatic-dom-and-events/tree/master/instructor_notes)
+- [Watch this Video on DOM Events](https://www.youtube.com/watch?v=iaR1GeRIv7w&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=37)
 - Then attempt this exercise: [Random Imager](./random-imager.md)
 - When completed submit your HW link via the HW Submission Form pinned to the classroom channel.
 
@@ -11,8 +11,12 @@
 ### 2. Read/Watch The Following (bonus if you have time)- EST TIME: 50min
  - Do: [FreeCodeCamp: Complete the jQuery Section](https://learn.freecodecamp.org/front-end-libraries/jquery) - 20min
  
- **Bonus**
- - [Programatic Dom](https://git.generalassemb.ly/SEIR-831/js-programmatic-dom-and-events/blob/master/instructor_notes/programmatic_dom.md)
+ **Bonus Videos**
+ - [Looping and the DOM](https://www.youtube.com/watch?v=LV8Em1hnUEw&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=38)
+ - [Events and the DOM](https://www.youtube.com/watch?v=mOO1xcO5Yu8&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=39)
+ - [MouseEvents](https://www.youtube.com/watch?v=fgxS3XLDt08&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=40)
+ - [Working with Form in the DOM](https://www.youtube.com/watch?v=xlriHLvToH0&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=44)
+ - [Web Components Masterclass](https://www.youtube.com/watch?v=qV7jh7ctALg&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=51)
 
 ### 3. Object Oriented Programming Primer- Night 3 (30 minutes)
 
