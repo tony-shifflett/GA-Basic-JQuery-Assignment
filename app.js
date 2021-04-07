@@ -16,5 +16,7 @@ const cards = [
     'https://www.trustedtarot.com/img/cards/the-tower.png',
     'https://www.trustedtarot.com/img/cards/the-moon.png'
   ]
-
-  
+  const $body =$("body")
+  const $div = $("<div>").text("add random image")
+  $body.append($div)
+  $div.addClass("cardBoard")
